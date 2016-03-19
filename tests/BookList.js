@@ -5,7 +5,7 @@ import BookList from '../src/BookList';
 
 describe("BookList", () => {
   const books = [
-    { title: 'ReactJS for dummies', author: 'guidsen' },
+    { title: 'ReactJS for dummies', author: 'Guido Schmitz' },
     { title: 'Redux and ReactJS', author: 'Dan Abramov' }
   ];
 
